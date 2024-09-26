@@ -1,2 +1,3 @@
-#COLOR RGB
+## COLOR RGB
+
 Ejemplo color RGB
